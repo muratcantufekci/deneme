@@ -8,7 +8,7 @@ namespace Metotlar
     {
         public void Ekle(Product urun)
         {
-            Console.WriteLine("Sepete eklendi : "+ urun.Adi);
+            Console.WriteLine("Sepete eklendi tebrikler : "+ urun.Adi);
         }
 
         public void Ekle2(string urunAdi, string aciklama, double fiyat, int stokAdedi)
